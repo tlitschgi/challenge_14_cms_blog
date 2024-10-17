@@ -1,0 +1,17 @@
+[
+  {
+    "username": "tlitschgi",
+    "email": "tlitschgi@att.net",
+    "password": "password123"
+  },
+  {
+    "username": "mjones",
+    "email": "mark.jonesd@email.com",
+    "password": "password456"
+  },
+  {
+    "username": "sjackson",
+    "email": "sarah.jacksond@email.com",
+    "password": "password987"
+  }
+]

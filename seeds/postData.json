@@ -1,0 +1,17 @@
+[
+  {
+    "title": "COBOL is still ingrained in today's infrastructure",
+    "content": "COBOL still critical, particularly in the finance and government sectors",
+    "user_id": 1
+  },
+  {
+    "title": "What is Linux?",
+    "content": "Linux facilitates interactions between hardware and software components of a computer system.",
+    "user_id": 2
+  },
+  {
+    "title": "Is MongoDB a SQL or NoSQL?",
+    "content": "MongoDB is an open source NoSQL database management program.",
+    "user_id": 3
+  }
+]
